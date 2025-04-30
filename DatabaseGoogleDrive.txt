@@ -1,0 +1,34 @@
+
+link of database document : https://docs.google.com/spreadsheets/d/e/2PACX-1vTGkSnjB1Bc5VTGIH61njv9qZ1uB1hg11SPUyIXDDSEH37rjcSyl2lycNR3XI9zStYVkWSHyoCg-A68/pubhtml
+
+-------------------------------------------------------------
+POS Deployment:
+
+Deployment ID
+
+AKfycbzZJu5tL2K3BHmA5_sIC119FYgRn-5BXQxuXfwjbjd0K5phhcOoFNJI9Lpg4voxWTIN
+
+
+Wep app
+
+URL
+
+https://script.google.com/macros/s/AKfycbzZJu5tL2K3BHmA5_sIC119FYgRn-5BXQxuXfwjbjd0K5phhcOoFNJI9Lpg4voxWTIN/exec
+----------------------------------------------------------
+-------------------------------------------------------------
+GET Deployment:
+
+Deployment ID
+
+AKfycbwuPRcSE4K6niMuvDa5WJ14PsTXVD7Hr9WGMh9-35E2NqRR9rCDAuc0k_n5VRNS4Nlz
+
+
+Wep app
+
+URL
+
+https://script.google.com/macros/s/AKfycbwuPRcSE4K6niMuvDa5WJ14PsTXVD7Hr9WGMh9-35E2NqRR9rCDAuc0k_n5VRNS4Nlz/exec
+----------------------------------------------------------
+
+
+https://docs.google.com/spreadsheets/d/1j8DJuqBkSGv4uGDEBjZhT18PRfGD3u28VvckV9Ycd_0/edit?gid=915451685#gid=915451685
